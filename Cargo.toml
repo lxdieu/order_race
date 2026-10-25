@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 description = "Đua lệnh đầu ngày: gửi lệnh lên sở ngay khi nhận K04 mở phiên"
 
+[[bin]]
+name = "racer"
+path = "src/main.rs"
+
 [dependencies]
 
 [profile.release]
