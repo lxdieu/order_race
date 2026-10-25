@@ -1,0 +1,5 @@
+/target
+/journal
+/sim/run
+/sim/*generated*
+.env
